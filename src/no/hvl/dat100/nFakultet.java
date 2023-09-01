@@ -26,9 +26,7 @@ public class nFakultet {
             } else {
                 System.out.print(i + " * ");
             }
-
         }
-
         System.out.println("\nVerdien av !" + n + " er: " + sum);
     }
 }

@@ -44,12 +44,8 @@ public class Karakterskala {
                 break;
             default:
                 System.out.println("Ugyldig poengsum");
-
         }
         antall++;
         }
-
-
     }
-
 }
